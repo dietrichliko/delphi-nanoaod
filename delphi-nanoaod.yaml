@@ -1,0 +1,8 @@
+---
+select_runquality: true
+
+select_t4hadrons: false
+
+
+skelana_options:
+  IFLBSP: 2
